@@ -1,0 +1,488 @@
+Autorização de Uso Emergencial de Vacinas
+contra a COVID-19
+Gerência-Geral de Medicamentos e Produtos Biológicos
+       Considerações Iniciais
+• Comitê COVID-GGMED: equipe multidisciplinar (farmacêuticos, biólogos, biomédicos,
+  estatísticos e médicos);
+
+• Autorizações de Uso Emergencial por outras agências reguladoras:
+
+                          País        Pedido Formal     Aprovação
+
+                      Reino Unido        11/set          01/dez
+
+                        Canadá           09/out          09/dez
+
+                     Estados Unidos      20/nov          11/dez
+Vacina Adsorvida Covid-19 (inativada)
+Coronavac: Qualidade, Segurança e Eficácia
+Gerência-Geral de Medicamentos e Produtos Biológicos
+       Descrição da Vacina
+• Desenvolvida pela empresa Sinovac Life Sciences Co., LTD (China);
+
+• Seu insumo farmacêutico ativo biológico é o antígeno do vírus inativado SARS-CoV-2;
+
+• Pedido relativo a 6 milhões de doses fabricadas em Sinovac life Sciences Co., Ltd ,
+  Beijing, China
+      Uso Pretendido (como solicitado pela empresa)
+• Trabalhadores da saúde;
+• Profissionais de apoio, cuidadores de idosos, entre outros;
+• População idosa (60 anos e mais);
+• Pessoas com 60 anos e mais institucionalizadas;
+• Pessoas com morbidades: (Diabetes mellitus; hipertensão arterial sistêmica; doença
+  pulmonar obstrutiva crônica; doença renal; doenças cardiovasculares e
+  cerebrovasculares; indivíduos transplantados de órgão sólido; anemia falciforme; câncer
+  e obesidade grave (IMC≥40).
+• População indígena aldeada em terras demarcadas;
+         Uso Pretendido (como solicitado pela empresa)
+•   Povos e comunidades ribeirinhas;
+•   População em situação de rua;
+•   Pessoas com deficiência permanente severa;
+•   Trabalhadores da educação;
+•   Professores de nível básico ao superior;
+•   Pessoas envolvidas nos processos de produção e desenvolvimento de imunobiológicos
+    estratégicos contra a Covid-19;
+•   Membros das Forças de Segurança e Salvamento;
+•   Funcionários do sistema de privação de liberdade;
+•   Trabalhadores do transporte coletivo;
+•   Transportadores rodoviários de carga;
+•   População privada de liberdade.
+         Cenário Regulatório Internacional
+• A vacina adsorvida covid-19 (inativada) ainda não teve seu registro sanitário aprovado
+  em nenhum país, mas se encontra aprovada para uso emergencial na República Popular
+  da China, Turquia e Indonésia.
+        Histórico de Interações com a Anvisa
+• 41 comunicações com o Instituto Butantã entre os dias 15/06/2021 a 16/01/2021;
+
+• 19 reuniões para discussão da Anuência em Pesquisa Clínica, Interrupção do Estudo e
+  Autorização de Uso Emergencial.
+Tecnologia Farmacêutica e Qualidade
+          Desenvolvimento da Vacina
+• Foram coletadas amostras de sangue contendo SARS-CoV-2 de quatro pacientes que
+  foram infectados por SARS-COV-2 em diferentes regiões da China;
+
+• Quatro cepas candidatas de SARS-CoV-2 foram isoladas, cultivadas in vitro e identificadas
+  por RT-PCR;
+
+• Comparada a imunogenicidade pela detecção do título de anticorpos de neutralização
+  nos soros, após a imunização de camundongos e ratos.
+         Desenvolvimento da Vacina
+• A sequência genética obtida foi comparada com a sequência de referência de SARS-CoV-
+  2;
+
+• Gerado o banco de célula para cultivo do vírus (célula Vero derivada do tecido de rim
+  normal de macaco verde adulto africano);
+
+• Estabelecimento do lote semente (mestre e de trabalho) testados pela Sinovac e
+  pelo National Institute of Food and Drug Control (NIFDC) - China.
+
+• Para o desenvolvimento de novo Lote de Semente Mestre, entretanto, para o Lote de
+  Semente de Trabalho, devem ser realizados o teste de identificação, título de vírus,
+  esterilidade e teste de micoplasma.
+     Principais Aspectos do Desenvolvimento Avaliados pela Anvisa
+
+• Escolha das cepas virais para geração das sementes;
+
+
+• Evidências sobre as características das células e vírus se mantêm inalteradas durante os
+  passos empregados na produção e determinação da idade celular máxima in vitro;
+
+
+• Ensaios para caracterização do vírus (morfologia) e impurezas.
+     Fabricação
+• Desenvolvimento do processo na escala piloto;
+
+• Cultivo celular;
+
+• Propagação;
+
+• Inativação;
+
+• Purificação;
+
+• Estudo de comparabilidade para aumento de escala, da escala piloto para escala
+  comercial.
+   Controle de Qualidade da Substância Ativa
+         Item de teste                           Referência                 Equivalência Ph. Eur.
+           Identificação                    Especificação in-house                  ----------
+                                       Farmacopeia Chinesa capítulo geral
+            Esterilidade                                                       Monografia 2.6.1
+                                                    <1101>
+                                       Farmacopeia Chinesa capítulo geral
+      Endotoxina bacteriana                                                    Monografia 2.6.14
+                                                    <1143>
+                                       Farmacopeia Chinesa capítulo geral
+           BSA Residual                                                        Monografia 2.7.1
+                                                    <3411>
+  Proteína residual da célula Vero          Especificação in-house                  ----------
+                                       Farmacopeia Chinesa capítulo geral
+    DNA residual da célula Vero                                                   (exigência)
+                                                    <3407>
+      Conteúdo de antígeno                  Especificação in-house                  ----------
+                                       Farmacopeia Chinesa capítulo geral
+       Conteúdo de proteína                                                    Monografia 2.5.33
+                                                    <0731>
+Endonuclease não restritiva residual        Especificação in-house                   -------
+     β-propiolactona residual               Especificação in-house                   -------
+                                       Farmacopeia Chinesa capítulo geral
+         Formaldeído livre                                                     Monografia 2.4.18
+                                                    <3207>
+           Atividade específica                       -------                         -------
+ Controle de Qualidade do Produto a Granel, Granel Terminado,
+ e Vacina Terminada
+• Apesar de ter sido demonstrado que as especificações seguem a Farmacopeia Chinesa, esta não
+  é reconhecida pela Anvisa, conforme a Resolução RDC n° 37, de 06/07/2009;
+
+• Apresentado método de comparabilidade entre a Farmacopéia Européia e a Farmacopéia
+  Chinesa;
+
+• Apresentado cronograma de adequação para implementação dos métodos analíticos, conforme
+  a Farmacopeia Europeia.
+
+• O Instituto Butantan se comprometeu, uma vez tendo feito a internalização da metodologia
+  analítica do produto terminado, em fazer o controle de qualidade de futuros lotes da vacina
+  adsorvida covid-19 (inativada) a serem usados no contexto desta solicitação de uso
+  emergencial.
+   Estabilidade do Granel e Produto Terminado
+• Granel: os resultados para todos os lotes ficaram dentro das especificações nas condições de
+  armazenamento de longa duração (5°C±3°C) por até 6 meses.
+
+• Terminado: proposta de extrapolação para o prazo de 12 meses. Sob as seguintes condições:
+
+1- Apresentação de dados atualizados à Anvisa assim que disponíveis;
+2- Comunicação imediata caso seja identificado qualquer problema na estabilidade;
+3- Compromisso de recolhimento dos lotes em caso de identificação de problemas na estabilidade;
+3- Revisão das especificações para os testes de liberação e estabilidade para o granel e produto terminado;
+4- Avaliação da potência dos lotes de vacina importados da Sinovac (retestagem) e inclusão deste teste na
+liberação e estabilidade do produto terminado, caso não haja correlação entre conteúdo antigênico e potência.
+Estudos Não-Clínicos
+  Estudos Não-Clínicos realizados
+
+Estudo de imunogenicidade: titulação de anticorpos em camundongos;
+
+Estudos de desafio de vírus: para determinar a possível dosagem e cronograma da
+vacina como evidência para aplicação clínica e evidência preliminar de eficácia;
+
+Avaliação geral de segurança: incluindo toxicidade de dose única, toxicidade de dose
+repetida, anafilaxia sistêmica ativa, tolerância local e estudos de toxicidade
+reprodutiva.
+
+
+• Conclusão: Perfil de segurança não-clínica bem caracterizado.
+Estudos Clínicos
+   Estudo Clínico
+
+Título do Estudo: COV-02-IB – Ensaio Clínico Fase III duplo-cego, randomizado, controlado
+com placebo para Avaliação de Eficácia e Segurança em Profissionais da Saúde da Vacina
+adsorvida COVID-19 (inativada) produzida por Sinovac – PROFISCOV
+
+País(es) onde o estudo foi conduzido: Brasil – 16 centros de pesquisa
+
+Data de início e término do estudo:
+Início do estudo: 21/07/2020
+Término do estudo: em andamento
+Data de corte: 16/12/2020
+   Objetivos Primários do Estudo Clínico
+
+• Avaliar a eficácia de duas doses da Vacina adsorvida COVID-19 (inativada) em indivíduos
+sintomáticos com 18 anos de idade ou mais, com confirmação virológica de COVID-19, duas semanas
+após a segunda vacinação que trabalham como profissionais de saúde realizando atendimento em
+contato direto com pessoas com quadros possíveis ou confirmados de COVID-19.
+
+
+• Descrever a ocorrência de reações adversas da droga associadas com a administração de cada dose
+da Vacina adsorvida COVID-19 (inativada) até uma semana após a vacinação em Adultos (18-59 anos
+de idade) e Idosos (60 anos de idade ou mais) que trabalham como profissionais de saúde realizando
+atendimento em contato direto com pessoas com quadros possíveis ou confirmados de COVID-19.
+   Objetivos Secundários do Estudo Clínico – Eficácia
+
+a. Avaliar a eficácia de duas doses da Vacina adsorvida COVID-19 (inativada) em indivíduos
+sintomáticos com 18 anos de idade ou mais, com confirmação virológica de COVID-19, duas semanas
+após a última vacinação que trabalham como profissionais de saúde (...) segundo exposição prévia a
+SARS-CoV-2;
+
+
+b. Avaliar a eficácia de pelo menos uma dose da Vacina adsorvida COVID-19 (inativada) em indivíduos
+sintomáticos com 18 anos de idade ou mais, com confirmação virológica de COVID- 19, duas semanas
+após a primeira vacinação que trabalham como profissionais de saúde (...);
+   Objetivos Secundários do Estudo Clínico – Eficácia
+
+c. Avaliar a eficácia de duas doses de uma Vacina adsorvida COVID-19 (inativada) em infecções
+assintomáticas e sintomáticas por SARS-CoV-2 detectadas sorologicamente e virologicamente, duas
+semanas após a segunda vacinação que trabalham como profissionais de saúde (...);
+
+
+d. Avaliar a eficácia da Vacina adsorvida COVID-19 (inativada) em casos graves de COVID-19
+confirmados virologicamente, duas semanas após receberem a segunda vacinação em indivíduos
+com 18 anos de idade ou mais que trabalham como profissionais de saúde (...).
+   Objetivos Secundários do Estudo Clínico – Imunogenicidade
+h. Avaliar a resposta imune à vacinação em um subgrupo de participantes duas semanas após a
+administração de cada dose da vacina em Adultos (18-59 anos de idade) e Idosos (60 anos de idade
+ou mais).
+
+i. Avaliar a resposta imune à vacinação mediada por células em um subgrupo de participantes antes
+de cada vacinação e às duas e quatro semanas após a administração da segunda dose da Vacina em
+Adultos (18-59 anos de idade) e Idosos (60 anos de idade ou mais).
+
+
+j. Avaliar a presença de anticorpos contra SARS-CoV-2 antes e duas semanas após a administração da
+segunda dose da Vacina em Adultos (18-59 anos de idade) e Idosos (60 anos de idade ou mais).
+   Metodologia do Estudo
+
+• Fase III, randomizado, multicêntrico guiado por desfecho, duplo cego, controlado com
+  placebo para avaliar a eficácia e segurança da Vacina;
+
+• Voluntários foram randomizados para receber uma dose intramuscular do produto sob
+  investigação ou o placebo, em uma proporção de 1:1, estratificado por faixa etária (18 a
+  59 anos e 60 anos ou mais) e serão monitorados por um ano, por vigilância ativa de
+  COVID-19;
+
+• Placebo: contém hidróxido de alumínio, hidrogenofosfato dissódico, di-hidrogenofosfato
+  de sódio, cloreto de sódio 0,5mL/dose, injeção intramuscular, duas doses administradas
+  com duas semanas de intervalo.
+Disposição dos Participantes
+Participação de Idoso
+Dados Demográficos
+Resultados e Benefícios
+   Resultado Primário de Eficácia
+
+Eficácia total (conforme desfecho primário): 50,39% (IC 95 : 35,26 – 61,98)*
+
+                                                                      *p=0,0049
+Metodologia Estatística
+   Eficácia da Vacina e Razão de Risco (RR) – Covid-19
+
+• Razão de Risco(RR) mede a incidência de casos de Covid-19 no braço da
+  vacina em relação ao placebo.
+
+
+• Eficácia da Vacina (VE) = 1 - RR
+   Hazard Ratio (HR)
+
+• Modelo de Regressão de Cox
+
+
+
+
+• Eficácia da Vacina = 1 - HR
+Hazard Ratio (HR)
+Eficácia da Vacina Coronavac
+
+
+  VE% = 1 – 0,496 = 50,4%
+Risco Acumulado
+                                     Hazard Function for patterns 1 - 2
+
+
+                     0,08                                                       grupo
+                                                                                    0
+                                                                                    1
+
+
+
+                     0,06
+        Cum Hazard
+
+
+
+
+                     0,04
+
+
+
+
+                     0,02
+
+
+
+
+                     0,00
+
+                            0   20     40      60      80     100         120
+                                            tempo
+Incidência Acumulada
+  Softwares
+
+• SAS®
+www.sas.com
+
+• R
+https://cran.r-project.org
+
+• SPSS®
+https://www.ibm.com/products/spss-statistics
+Resultados Secundários de Eficácia
+Resultado Secundário de Eficácia – Agrupamento por Gravidade
+      Resultado Secundário de Eficácia – Agrupamento por Gravidade
+
+ Avaliação e agrupamento de incidência de casos de acordo com a definição de gravidade da OMS
+  Gravidade                         Grupo Vacinado     Grupo Placebo            Total
+  Leve (escores 2 e 3)              85                 159                      244
+  Moderada (escores 4 e 5)          0                  6                        6
+  Grave (escores 6 a 9)             0                  1                        0
+  Óbito (escore 10)                 0                  0                        0
+
+• Os casos moderados e graves foram raros ou muito raros no grupo placebo e na população PP;
+
+• 6 participantes da população PP de análise precisaram de hospitalização;
+
+• Nenhum participante do estudo precisou de terapia de oxigênio ou intubação.
+Resultado Secundário de Eficácia – Agrupamento por Idade
+  Resultado Secundário de Eficácia – Imunogenicidade
+
+• Não foram apresentados os resultados da avaliação de imunogenicidade
+  ao longo do tempo para esse estudo, de acordo com o que era esperado
+  e definido no protocolo aprovado para esse estudo clínico.
+
+
+• O único resultado apresentado não foi considerado adequado para
+  avaliação e conclusão de imunogenicidade.
+  Resultado Secundário de Eficácia – Imunogenicidade
+
+• Avaliações de anticorpos neutralizantes previstas: Não foram apresentados
+  osresultados previstos no protocolo aprovado do estudo clínico.
+
+• Avaliações de anticorpos de ligação previstas: Os dados apresentados foram
+  referentes a uma coleta. Os resultados individuais foram apresentados em um
+  tabela, sem tratamento de dados e sem definir a qual grupo eram referentes
+  (Placebo ou Controle )
+
+• Avaliação da soroconversão e da imunidade celular previstas: Não foram
+  apresentados previstos no protocolo aprovado do estudo clínico.
+  Segurança
+
+• Ocorrência de reações adversas solicitadas (locais e sistêmicas) até 7 dias após a
+  administração da segunda dose: 50,8% no grupo dos adultos e 36,4% no grupo
+  dos idosos;
+
+• Ocorrência de reações adversas não solicitadas (locais e sistêmicas) até 7 dias
+  após a administração da segunda dose: 9,2% no grupo de adultos e 8,1% no
+  grupo de idosos.
+  Segurança
+
+• A reação mais comum observada depois da segunda dose da vacina em ambos os
+  grupos foi dor no local da administração, que ocorreu em 40,1% dos adultos e
+  27,8% dos idosos;
+
+• A grande maioria das reações adversas observadas foram de Grau 1/2 e não
+  ocorreu nenhuma reação adversa grave;
+
+• Outro risco ligado principalmente a vacinas inativadas é o desenvolvimento de
+  doença agravada pela vacina (ADE).
+Segurança
+Incertezas e Riscos
+  Eficácia e perfil de segurança em longo prazo
+
+• Dados clínicos são provenientes de análises preliminares de estudos ainda
+  em andamento;
+
+• Não foram apresentados dados de imunogenicidade ao longo do tempo;
+
+• A vacina não induz resposta imune celular significativa, que está mais
+  relacionada a imunidade sustentada.
+  Eficácia para formas moderadas e graves da doença
+
+
+
+
+Os dados são insuficientes para estabelecer conclusão ou para mostrar uma tendência de eficácia contra as
+formas moderadas e graves da doença Covid19.
+  Status sorológico da linha de base
+
+• Incerteza em relação à avaliação de segurança e resposta à vacina em
+  participantes que já haviam sido previamente expostos ao vírus antes da
+  vacinação (com comprovação sorológica);
+
+• Qual a eficácia em indivíduos que tem infecção prévia? E qual a eficácia em
+  indivíduos naive?
+
+• Incertezas sobre a duração da proteção,          esquema     posológico   e
+  potencialização dependente de anticorpo - ADE
+  Eficácia em População Idosa
+
+• A quantidade de idosos no estudo com dados disponíveis era muito pequeno
+  para determinar um perfil de eficácia e segurança da vacina;
+
+• Baixo número de casos positivos para Covid-19 em participantes com esta
+  faixa etária (3 no braço placebo x 2 no braço vacinal);
+
+• Imunosenescência.
+  Eficácia relacionada ao intervalo de dose
+• Estudo Fase I/II (18 a 55 anos) conduzido com 2 intervalos distintos entre as doses,
+  de 14 dias e de 28 dias: respostas imunológicas dos dias 0 e 28 foram maiores do que
+  aquelas dos dias 0 e 14, independentemente da dose;
+
+• Estudo de Fase I/II em adultos acima de 60 anos: apenas com o intervalo entre as
+  doses de 28 dias.
+
+• Estudo de Fase III: intervalo entre doses de 14 dias a 28 dias
+
+• Incertezas: Aa eficácia da vacina em pessoas com mais de 60 anos pode ser
+  prejudicada com o intervalo de 14 dias entre as doses? A eficácia da população geral
+  poderia ser melhor, no caso de um intervalo maior entre as doses fosse utilizado?
+  Eficácia para dose única, comorbidades, crianças, adolescentes,
+  gestantes e imunossuprimidos
+
+• Não foram apresentados dados que pudessem garantir eficácia para esse regime
+  posológico e nem para esses grupos.
+  Confiabilidade e Validade Interna do Estudo
+
+1. Esclarecer quantos participantes, por braço do estudo, receberam a segunda dose da
+   vacina com intervalo de 14 dias e quantos receberam com intervalos maiores. Nos
+   casos intervalos maiores que 14 dias informar qual o intervalo exato entre as doses
+   utilizado por número de participantes e por braço do estudo.
+
+2. Informar quantos pacientes sintomáticos foram detectados, e por quantas vezes,
+   durante o estudo por centro e por braço placebo e vacinados.
+
+3. Apresentar o número de participantes sintomáticos que tiveram resultados negativos
+   por PCR no estudo, por braço do estudo.
+  Confiabilidade e Validade Interna do Estudo
+
+4. Informar, por braço placebo e de vacinados, a média e a quantidade mínima e
+máxima de amostras coletadas para diagnóstico por PCR para os indivíduos que foram
+sintomáticos durante o estudo após a segunda dose da vacina.
+
+5. Narrativas com os dados dos pacientes sintomáticos considerados negativos para
+Covid durante o estudo após a segunda dose da vacina, incluindo descrição e data de
+início de sintomas, data de coleta e número de amostras coletadas para diagnóstico por
+PCR. Os dados devem ser apresentados por braço do estudo.
+  Confiabilidade e Validade Interna do Estudo
+
+6. Apresentar, quanto aos participantes do estudo positivos para COVID-19,
+informações sobre quantos foram hospitalizados e classificá-los individualmente de
+acordo com o escore de 4 a 10, para cada braço do estudo. Apresentar de forma clara
+quantos participantes do estudo precisaram de assistência em UTI, para o grupo
+controle e para o grupo vacinado.
+
+
+7. Descrição de todos os desvios de protocolo ocorridos no estudo, por braço do estudo,
+com a adequada classificação de impacto e de categoria.
+   Confiabilidade e Validade Interna do Estudo
+8. Apresentar as narrativas com os dados individuais de todos os casos COVID positivos,
+com descrição de dia de início de sintomas, período decorrido até a coleta de amostras,
+que tipo de amostras foram coletadas e quais os testes foram realizados (virológicos e
+sorológicos) e seus resultados. Devem ser apresentadas também a descrição da
+avaliação da gravidade da doença e da conclusão. Podem ser apresentados os CRF se
+todos os dados estiverem incluídos.
+
+9. Apresentar esclarecimentos quanto aos dados apresentados na Tabela 5 do relatório
+do estudo fase 3, dados sobre eficácia vacinal em 5704 profissionais de saúde em
+contato direto com pacientes com COVID-19 com informação sobre exposição prévia.
+Esclarecer quais foram as informações sobre infecção prévia avaliadas nos
+participantes, descrevendo os testes e comprovações apresentadas.
+   Confiabilidade e Validade Interna do Estudo
+
+Agendada Inspeção de Boas Práticas Clínicas: Início 25 de Janeiro.
+Conclusões
+  Recomendação à Diretoria Colegiada
+
+• Tendo em vista o cenário da pandemia;
+
+• Aumento do número de casos;
+
+• Ausência de alternativas terapêuticas;
+
+• A Gerência-Geral de Medicamentos recomenda a aprovação do uso emergencial,
+  condicionada ao monitoramento das incertezas e reavaliação periódica.
+

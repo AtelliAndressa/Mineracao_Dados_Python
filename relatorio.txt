@@ -1,0 +1,952 @@
+RELATÓRIO - BASES TÉCNICAS PARA
+DECISÃO DO USO EMERGENCIAL,
+EM CARÁTER EXPERIMENTAL DE
+VACINAS CONTRA A COVID-19
+Sumário
+
+1     PREÂMBULO .......................................................................................................................... 3
+2     HISTÓRICO ............................................................................................................................. 4
+3     INTRODUÇÃO......................................................................................................................... 5
+4     ANÁLISE................................................................................................................................ 11
+    4.1      CENÁRIO INTERNACIONAL .......................................................................................... 13
+      4.1.1          Instituto Butantan ............................................................................................... 14
+      4.1.2          Fiocruz .................................................................................................................. 15
+    4.2      CARACTERÍSTICAS DA VACINA .................................................................................... 16
+      4.2.1          Instituto Butantan ............................................................................................... 16
+      4.2.2          Fiocruz .................................................................................................................. 16
+    4.3      DADOS DE BOAS PRÁTICAS DE FABRICAÇÃO ............................................................. 17
+      4.3.1          Instituto Butantan ............................................................................................... 18
+      4.3.2          Fiocruz .................................................................................................................. 18
+    4.4      DADOS SOBRE A SEGURANÇA E EFICÁCIA .................................................................. 19
+      4.4.1 Instituto Butantan ...................................................................................................... 19
+      4.4.2          Fiocruz .................................................................................................................. 20
+    4.5      DADOS DE FARMACOVIGILÂNCIA............................................................................... 22
+      4.5.1          Plano de Gerenciamento de Risco ...................................................................... 22
+5     DA DELIBERAÇÃO ................................................................................................................ 25
+6     DA DECISÃO ......................................................................................................................... 26
+
+
+
+
+2
+1 PREÂMBULO
+       Considerando a finalidade institucional da ANVISA de promover a proteção da
+saúde da população, bem como suas atribuições legais, conforme estabelecido no art.
+6º e nos incisos III, VII e IX do art. 7º da Lei n.º 9.782, de 26 de janeiro de 1999;
+
+       Considerando que em 31 de janeiro de 2020, seguindo recomendação do Comitê
+de Emergência, a OMS declarou Emergência de Saúde Pública de Importância
+Internacional (ESPII) para o 2019-nCoV;
+
+       Considerando que em 4 de fevereiro de 2020, foi publicada a Portaria nº 188, de
+3 de fevereiro de 2020, que declarou Emergência em Saúde Pública de Importância
+Nacional (ESPIN), em decorrência de casos suspeitos da Infecção Humana pelo novo
+Coronavírus (SARS- CoV-2);
+
+       Considerando a Resolução da Diretoria Colegiada- RDC n° 444, de 10 de
+dezembro de 2020 que estabelece a autorização temporária de uso emergencial, em
+caráter experimental, de vacinas Covid-19 para o enfrentamento da emergência de
+saúde pública de importância nacional decorrente do surto do novo Coronavírus (SARS-
+CoV-2);
+
+       Considerando as recomendações constantes no Guia n° 42/2020 que trata dos
+requisitos mínimos para submissão de solicitação de autorização temporária de uso
+emergencial, em caráter experimental, de vacinas Covid19;
+
+       Considerando a necessidade de constante aperfeiçoamento das atividades de
+vigilância sanitária em função do contexto epidemiológico internacional, bem como o
+objetivo de dar celeridade à disponibilização de vacinas para auxiliar na prevenção e no
+tratamento dos efeitos individuais e coletivos da pandemia da Covid-19, a Anvisa, como
+órgão regulador do Estado brasileiro, expressa neste relatório as bases técnicas para a
+decisão da Anvisa quanto a autorização temporária de uso emergencial, em caráter
+experimental, dos dois processos submetidos na Agência, referentes as seguintes
+vacinas contra a Covid-19:
+
+
+
+
+3
+           •   Instituto Butantan (IB)
+
+               Coronavac - Vacina adsorvida COVID-19 (Inativada)
+
+               Fabricante: Sinovac Life Sciences Co., Ltd.
+
+               Parceria: IB/ Sinovac
+
+               Processo: 25351.900460/2021-13
+
+           •   Fundação Oswaldo Cruz (Fiocruz) - INSTITUTO DE TECNOLOGIA EM
+               IMUNOBIOLÓGICOS - Bio-Manguinhos
+
+               Covishiled - Vacina covid-19 (recombinante)
+
+               Fabricante: Serum Institute of India Pvt. Ltd.
+
+               Parceria: Fiocruz/ Astrazeneca
+
+               Processo: 25351.900503/2021-61
+
+
+2 HISTÓRICO
+       Em 31 de dezembro de 2019, a Organização Mundial de Saúde (OMS) foi
+informada de um conjunto de casos de pneumonia de causa desconhecida detectados
+na cidade de Wuhan, província de Hubei, na China. O novo vírus, Coronavírus, SARS-
+COV-2, foi identificado como o vírus responsável pelos casos, em 7 de janeiro de 2020.
+
+       Na data de 22 de janeiro de 2020, entrou em funcionamento o Centro de
+Operações de Emergência - Coronavírus, coordenado pelo Ministério da Saúde, do qual
+a Anvisa passou a ser integrante.
+
+       A Anvisa instituiu, por meio da Portaria nº 74, de 27 de janeiro de 2020, um
+Grupo de Emergência em Saúde Pública para condução das ações da Agência, no que
+diz respeito ao novo Coronavírus. A Agência também participa como membro do Grupo
+Executivo Interministerial de Emergência em Saúde Pública de Importância Nacional e
+Internacional - GEI-ESPII, estabelecida pelo Decreto nº 10.211, de 30 de janeiro de 2020.
+
+
+
+
+4
+       Em 31 de janeiro de 2020, seguindo recomendação do Comitê de Emergência, a
+OMS declarou Emergência de Saúde Pública de Importância Internacional (ESPII).
+
+       Em seguida, na data de 4 de fevereiro de 2020, o Ministério da Saúde publicou a
+Portaria nº 188, de 3 de fevereiro de 2020, que declarou Emergência em Saúde Pública
+de importância Nacional (ESPIN), em decorrência da Infecção Humana pelo novo
+Coronavírus.
+
+       Na sequência em 7 de fevereiro de 2020, foi publicada a Lei nº 13.979, de 6 de
+fevereiro de 2020, que dispõe sobre as medidas para enfrentamento da emergência de
+saúde pública de importância internacional decorrente do Coronavírus.
+
+       Durante todo o ano de 2020, muitas medidas e estratégias foram discutidas
+resultando na publicação de várias Resoluções de Diretoria Colegiada com caráter
+temporário     e   procedimentos   extraordinários   como    forma   de    impedir   o
+desabastecimento e ampliar o acesso a produtos e insumos utilizados no combate e
+prevenção ao Coronavírus.
+
+       Ainda no ano de 2020 foi publicada a Resolução RDC nº 444, de 10 de dezembro
+2020, que estabelece a autorização temporária de uso emergencial, em caráter
+experimental, de vacinas Covid-19 para o enfrentamento da emergência de saúde
+pública de importância nacional decorrente do surto do novo Coronavírus (SARS-CoV-
+2).
+
+
+3 INTRODUÇÃO
+       A COVID-19 é uma doença causada pelo novo Coronavírus, denominado SARS-
+CoV-2, que apresenta um espectro clínico variando de infecções assintomáticas a
+quadros graves. O atual cenário epidemiológico revelou a necessidade de novas
+abordagens para disponibilizar alternativas terapêuticas em tempo hábil, reconhecendo
+que pacientes, profissionais de saúde e governantes estão dispostos a tolerar
+riscos maiores, especialmente os riscos de não ter todo o conhecimento necessário
+sobre a alternativa terapêutica, quando a morbidade da doença é significativa.
+
+
+
+5
+       Até a data de 15 de janeiro de 2021 o Brasil registrou 208.246 óbitos por Covid-
+19 e 8.393.492 casos confirmados de infecção por SARS-CoV-2, de acordo com os dados
+publicados pelo consórcio de veículos de imprensa a partir dos dados coletados das
+Secretarias Estaduais de Saúde.
+
+
+       Desde o surgimento e a rápida disseminação do SARS-CoV-2, seguiu-se um
+rápido incremento de pesquisas e colaboração global entre cientistas, universidades,
+governos e fabricantes de imunobiológicos, unidos na corrida para obter em tempo
+recorde informações sobre a COVID-19. A sequência genética do SARS-CoV-2, agente
+etiológico da COVID-19, foi obtida por pesquisadores chineses em 07 de janeiro e
+publicada em 11 de janeiro de 2020, com amplo acesso aos pesquisadores de todo o
+mundo.
+
+
+       Cientistas em todo o mundo têm atuado para favorecer o desenvolvimento de
+vacinas seguras e eficazes. Com base no conhecimento sobre vacinas para outras
+patologias virais e os dados dos ensaios clínicos em andamentos, a comunidade
+científica acredita que a vacina pode ajudar a evitar a proliferação e os danos graves da
+COVID-19, como também pode proteger o indivíduo e o coletivo, particularmente, as
+pessoas com risco aumentado de desenvolver as formas graves da COVID-19.
+
+
+       As vacinas são produtos biológicos que funcionam com base num conceito
+simples e bem estabelecido: mimetizar a reação imune fisiológica, oferecendo ao
+sistema imunológico humano o estímulo necessário para que se desenvolva a imunidade
+sem que o indivíduo tenha que se expor aos riscos da infecção natural.
+
+
+       A imunidade adquirida após a infecção pelo COVID 19 pode ser uma proteção
+natural, no entanto a evidência atual sugere que a reinfecção pelo COVID 19 é incomum
+nos 90 (noventa) dias após a infecção inicial. A comunidade científica não sabe ao certo
+quanto tempo dura essa proteção, e o risco de doenças graves e morte por COVID-19
+supera em muito qualquer benefício da imunidade natural.
+
+
+
+
+6
+       É certo, que a vacinação contra a COVID-19 será uma ferramenta importante
+para ajudar a conter a pandemia, ainda que o uso de máscaras e o distanciamento social
+ajudem a reduzir a chance de se expor ao vírus ou de transmiti-lo a outras pessoas,
+sabemos que essas medidas não são suficientes. Assim, as vacinas com suas respostas
+imunológicas são essenciais para proteger o indivíduo e o coletivo, ou seja, o
+enfretamento dessa pandemia requer o uso de todas as ferramentas que possam ser
+disponibilizadas.
+
+
+       A vacinação contra a COVID-19 ajudará a proteção individual e coletiva,
+destacando nessa questão em particular, a importância e a prioridade mundial da
+vacinação dos profissionais de saúde, pois há evidências de infecções pelo SARS-CoV-2
+entre os profissionais de saúde, além disso, destaca-se o papel essencial que eles
+desempenham na atenção à saúde dos pacientes. Portanto, o acesso precoce à vacina é
+fundamental para garantir a saúde e a segurança dessa força de trabalho essencial para
+o Brasil, protegendo não apenas os mesmos, mas também seus pacientes, famílias,
+comunidades e a saúde geral de nosso país.
+
+
+       Ainda que alguns países possam ter implementado o uso das vacinas
+para COVID 19, com base nos dados de segurança e imunogenicidade, o objetivo do
+desenvolvimento da vacina é obter evidência direta da sua eficácia para a proteção
+individual, possibilitando uma resposta coletiva contra a infecção pelo novo Coronavírus
+(SARS-CoV-2). A OMS sugeriu que uma demonstração clara de eficácia (em uma base
+populacional), com estimativa de resposta superior a 50% deve ser um critério mínimo
+aceitável para qualquer vacina contra a COVID-19, além disso, a eficácia pode ser
+avaliada em relação aos estágios diferentes da doença, da sua eliminação e transmissão.
+Esta definição é necessariamente inespecífica e reflete as complexidades da avaliação
+da eficácia clínica de vacinas candidatas no contexto desse novo vírus.
+
+
+       Assim, uma vacina contra a COVID-19 capaz de reduzir qualquer um desses
+elementos pode contribuir para o controle da doença, onde não há medicamentos
+profiláticos eficazes e poucos tratamentos disponíveis.
+
+
+
+7
+          Vários métodos são usados para desenvolver novas vacinas. É certo que a
+avaliação da eficácia de uma vacina é complexa para muitas doenças, mas
+particularmente no caso do SARS-CoV-2, onde a compreensão fundamental do vírus está
+evoluindo é ainda mais. Várias vacinas estão sendo testadas em todo o mundo, em
+estudos de fase inicial e algumas vacinas candidatas já estão em estudos de fase 3, que
+avaliam a eficácia e a segurança. Sabemos que para o Brasil, conhecido por suas
+especificidades epidemiológicas, os quais envolvem estratégias desafiadoras, é
+importante que haja as vacinas disponíveis para o enfrentamento da pandemia.
+
+
+          Há diversas plataformas e tecnologias que podem ser relevantes em distintos
+contextos epidemiológicos. No entanto, as abordagens padronizadas para avaliar
+diferentes desfechos são importantes para permitir e garantir a confiabilidade das
+informações técnicas das diversas vacinas. Os ensaios clínicos se consolidaram como
+método de escolha para avaliação dessas intervenções, cada fase do ensaio
+clínico baseia-se em dados das fases anteriores e examina componentes de segurança e
+eficácia, assim os benefícios conhecidos e potenciais de uma vacina devem superar os
+riscos.
+
+
+          No Brasil, de acordo com o Regulamento Sanitário para a realização de ensaios
+clínicos com medicamentos no país, o Dossiê de Desenvolvimento Clínico de
+Medicamento (DDCM) é o compilado de documentos a ser submetido à Anvisa com a
+finalidade de se avaliar as etapas inerentes ao desenvolvimento de uma vacina
+experimental visando à obtenção de informações para subsidiar o registro e em tempos
+de pandemia, a autorização de uso emergencial e temporária de vacinas contra a COVID-
+19 que estão em fase experimental.
+
+
+          Na condução dos ensaios clínicos, a confirmação da infecção pelo SARS-CoV-2, é
+normalmente realizada por meio do resultado do exame RT-PCR é um desfecho primário
+apropriado para estudos de eficácia de vacinas, com uma estimativa resposta de pelo
+menos 50% de eficácia para ensaios controlados por placebo. No entanto, a proteção
+contra a doença grave e morte é difícil de avaliar em ensaios clínicos de fase 3, devido
+
+
+
+8
+ao número de participantes necessários. Em vez disso, os dados para abordar este
+parâmetro podem estar disponíveis apenas em grandes ensaios de fase 4 ou estudos
+epidemiológicos feitos após a implantação generalizada de uma vacina.
+
+
+       Estudos de farmacovigilância solidamente estabelecidos garantem a avaliação
+contínua da segurança da vacina, não obstante, mais estudos sobre o efeito da
+vacinação na gravidade da doença devem ser conduzidos, bem como sua capacidade de
+impedir a transmissão do vírus.
+
+
+       O efeito de uma vacina eficaz no curso da pandemia de SARS-CoV-2 é complexo
+e há muitos cenários potenciais após a implantação. A capacidade de uma vacina de
+proteger contra doenças graves e mortalidade é o parâmetro de relevância para a
+avaliação de eficácia, pois as internações hospitalares e de cuidados intensivos
+representam uma grande carga para os sistemas de saúde.
+
+       Para ajudar a disponibilizar produtos e medicamentos, incluindo vacinas,
+rapidamente durante a pandemia causada pelo novo Coronavírus, a Anvisa vem atuando
+para favorecer o acesso aos produtos sujeitos a vigilância sanitária. No caso particular
+das vacinas, a Agência criou um ambiente regulatório facilitado com instrumentos para
+regularizar as vacinas desenvolvidas para prevenir a infecção pelo Coronavírus. Os
+instrumentos regulatórios são: a Resolução de Diretoria Colegiada RDC n° 444/2020
+que autorizou o uso emergencial em caráter experimental e o Guia n° 42/2020 que
+definiu os requisitos mínimos sobre as informações que devem ser submetidas à ANVISA
+para fins de autorização emergencial e temporária, é um instrumento regulatório não
+normativo, de caráter recomendatório.
+
+       O instrumento da autorização de uso emergencial pode facilitar a
+disponibilização e o uso das vacinas contra a Covid-19, ainda que não tenham sido
+avaliadas sob o crivo do registro, desde que cumpram com os requisitos mínimos de
+segurança, qualidade e eficácia. Esse mecanismo é restrito a um público previamente
+definido e não substitui o registro sanitário. A modalidade de uso emergencial e
+
+
+
+
+9
+temporário está prevista em regulamento e pode trazer benefícios a determinados e
+controlados grupos, como medida adicional para o enfrentamento da pandemia.
+
+       O procedimento de autorização de uso emergencial avalia a adequação da vacina
+contra a Covid-19 para o uso durante a atual emergência de saúde pública, permitindo
+que sejam adotadas estratégias para minimizar o mais rápido possível os impactos dessa
+pandemia. Entretanto, é importante que nessa avaliação os critérios de qualidade,
+eficácia e segurança estabelecidos no guia da Anvisa e internacionalmente sejam
+considerados, bem como a avaliação dos pacotes de dados encaminhados na submissão
+contínua.
+
+       O instrumento da autorização de uso emergencial é um passo fundamental para
+o acesso às vacinas contra a Covid-19 no Brasil, no entanto deve-se enfatizar a
+necessidade de um esforço ainda maior na continuidade dos estudos clínicos, no
+monitoramento e na submissão do pedido de registro no Brasil. Os servidores da
+Agência estão trabalhando diuturnamente para avaliar todos os dados encaminhados
+pelas empresas, na expectativa que as vacinas alcancem os padrões de qualidade,
+segurança e eficácia necessários para o seu uso. Entretanto, ressalta-se a importância
+de as empresas garantirem o suprimento das vacinas para conter a pandemia, em
+especial para atender às necessidades das populações prioritárias em todos os lugares
+do Brasil.
+
+       A autorização de uso emergencial não é uma permissão para a introdução no
+mercado para efeitos de comercialização, distribuição e uso, isto é concedido por meio
+do registro sanitário, conforme expresso na Lei n° 6360/1976. Esta autorização será
+válida até que seja expressamente retirada pela Anvisa ou mediante a emissão de uma
+autorização de uso, distribuição e comercialização completa, ou seja, o registro
+sanitário.
+
+       A Anvisa pode revisar e ajustar as condições para o uso emergencial temporário
+em resposta a quaisquer resultados que seja considerado relevantes, incluindo, os
+dados e informações provenientes de outras autoridades reguladoras.
+
+
+
+
+10
+       As empresas devem fornecer prontamente à Anvisa quaisquer outros dados,
+recomendações ou orientações que sejam gerados por eles, ou que de outra forma
+cheguem ao seu conhecimento, que sejam relevantes para o perfil de benefício/risco da
+vacina que seja relevante para a segurança e condições de uso. Assim, a empresa deve
+responder em tempo previamente estabelecido, a todas as solicitações da Anvisa para
+dados complementares adicionais relacionados ao processo de fabricação, qualidade do
+produto, eficácia, segurança e qualidade da vacina.
+
+       Há a necessidade da manutenção dos controles sanitários, sendo que o
+descumprimento dos requisitos estabelecidos na RDC n° 444/2020 está sujeita as
+penalidades previstas na Lei n° 6437/77.
+
+       A Anvisa, como órgão regulador do Estado brasileiro, mantém o compromisso de
+atuar em prol dos interesses da saúde pública. Diante do compromisso da
+transparência, da emergência e interesse públicos, esta Agência buscou comunicar-se
+com a sociedade, usando ferramentas para manter e ampliar o conhecimento dos
+trabalhos   desenvolvidos.    Ressalta-se as   notas   disponibilizadas no Portal   da
+Anvisa, o Mapa das Vacinas, o andamento da análise das vacinas e o Painel dinâmico
+com as informações sobre o status das análises e as documentações apresentadas pelas
+empresas, bem como as inúmeras concessões de entrevistas realizadas pelo Gerente
+Geral de Medicamentos e Produtos Biológicos, Gustavo Mendes.
+
+       Deste    modo,     a contínua atualização das informações permite acompanhar
+passo a passo o andamento da submissão de documentos e a análise dos pedidos de uso
+emergencial de vacinas contra a Covid-19.
+
+
+4 ANÁLISE
+       A avaliação dos dados foi realizada pelas áreas técnicas da ANVISA, Gerência
+Geral de Medicamentos e Produtos Biológicos - GGMED, Gerência Geral de Inspeção -
+GGFIS e Gerência Geral de Monitoramento - GGMON, que consideraram a ameaça
+representada pela emergência de saúde pública atualmente presente no Brasil e no
+
+
+
+
+11
+mundo, bem como o benefício que pode advir do uso da dessas vacinas em discussão e
+em deliberação por esta Diretoria Colegiada da Anvisa.
+
+       As submissões das autorizações temporárias de uso emergencial, em caráter
+experimental, de vacinas Covid-19 foram recebidas por esta Agência em 08/01/2021,
+por meio do sistema DATAVISA, pelo Instituto Butantan às 09:24h e pela Fundação
+Oswaldo Cruz -Fiocruz às 15:50h.
+
+       No mesmo dia a Gerência-Geral de Medicamentos e Produtos Biológicos -
+GGMED, Gerência-Geral de Inspeção e Fiscalização Sanitária - GGFIS e Gerência-Geral
+de Monitoramento de Produtos Sujeitos à Vigilância Sanitária - GGMON iniciaram suas
+avaliações simultaneamente, com a urgência que a solicitação requer.
+
+       As três áreas técnicas se manifestaram com relação a documentação
+apresentada pelas duas instituições, as avaliações estão presentes nos pareceres
+emitidos pelas gerencias gerais. As versões públicas desses documentos estão presentes
+em links, constantes neste relatório.
+
+       Na presente data, temos o seguinte cenário sobre o andamento da análise
+das Vacinas produzidas pelo Instituto Butantan e Fiocruz:
+
+                Painel dinâmico sobre o andamento da análise das vacinas
+
+       Diante dos pareceres técnicos, emitidos por equipe multidisciplinar de servidores
+especialistas de diferentes áreas da Anvisa e disponíveis nos respectivos processos de
+submissão, é possível observar que a via regulatória da autorização de uso emergencial
+estabelecida pela Anvisa envolve uma avaliação rigorosa dos dados de ensaios pré-
+clínicos, clínicos de fase I, II e III, bem como dados adicionais substanciais sobre
+segurança, eficácia, qualidade e um plano de gerenciamento de risco. Dessa forma,
+guiados pela ciência, assim como nas evidências, resultados e informações apresentados
+até o momento, referentes aos estudos clínicos, qualidade, as boas práticas de
+fabricação e monitoramento, os processos foram analisados pelas áreas da Anvisa
+competentes a cada tema que fizeram as conclusões que serão pontualmente
+apresentadas.
+
+
+12
+4.1 CENÁRIO INTERNACIONAL
+       Esses últimos meses têm sido marcados pelo anúncio da aprovação para uso
+emergencial ou definitivo de imunizantes contra a Covid-19 em diferentes países. Esse
+esforço de todos os envolvidos nessa grande conquista traz esperança de que a
+pandemia será superada e vidas poderão ser salvas com a imunização da população.
+
+       A Anvisa, Agência Reguladora do Brasil, também responsável pela aprovação do
+uso de vacinas, é reconhecida internacionalmente pelo seu trabalho técnico de proteção
+e promoção da saúde pública. É membro do Comitê Gestor do Conselho Internacional
+de Harmonização de Requisitos Técnicos para Registro de Medicamentos de Uso
+Humano (ICH), fórum de discussão e harmonização dos requisitos técnicos para
+medicamentos em todo o mundo, bem como promoção de cooperações bilaterais e
+multilaterais com membros de outros países.
+
+       Em novembro de 2020, houve a aprovação da Anvisa no Esquema de Cooperação
+em Inspeção Farmacêutica (PIC/S, do inglês Pharmaceutical Inspection Co-operation
+Scheme) que aprova/reconhece a capacidade técnica do Brasil em melhorar a qualidade
+dos medicamentos no País, além de possibilitar o aumento da competitividade das
+empresas nacionais nos mercados internacionais.
+
+       Também sobre a avaliação de vacinas, a Anvisa é pré-qualificada pela OMS. É o
+reconhecimento do papel da Anvisa na regulação de vacinas, na robustez da avaliação
+para concessão de registro desses produtos, comparável aos melhores do mundo,
+possibilitando que a OMS compre vacinas brasileiras para abastecer outros países.
+
+       Logo, a Agência mantém canais regulares de comunicação com outras agências
+regulatórias e organizações internacionais de saúde. A troca rápida de informações
+sobre questões de segurança pode ocorrer por meio de alertas rápidos. Ademais, a
+Coalizão Internacional de Autoridades Reguladoras de Medicamentos (International
+Coalition of Medicines Regulatory Authorities – ICMRA) fornece uma estrutura para a
+troca de informações sobre iniciativas e melhores práticas relacionadas às emergências
+de saúde pública e à Covid-19.
+
+
+
+
+13
+4.1.1 Instituto Butantan
+          A CoronaVac é uma vacina de 1ª geração, produzida a partir do vírus inativado,
+desenvolvida pela Sinovac Life Science Co. Ltd., será produzida no Brasil pelo Instituto
+Butantan por meio de uma parceria com a Sinovac Biotech, que realizou as etapas pré-
+clínicas e os estudos clínicos fase I e II na China. O Instituto Butantan patrocina e conduz
+o estudo clínico fase III no Brasil para solicitação do registro do produto. Após o início
+do estudo fase III no Brasil pelo Instituto Butantan, outros estudos fase III com a vacina
+adsorvida covid-19 (inativada) da Sinovac foram iniciados na Turquia e Indonésia.
+
+          O imunizante ainda não foi oficialmente registrado na China, mas foi autorizado
+em regime de uso emergencial em julho e anunciado oficialmente no mês agosto. Estão
+sendo imunizados funcionários do governo chinês, como profissionais de saúde e
+equipes que trabalham nas fronteiras.
+
+          A Indonésia começou a vacinação em dezembro, de forma gratuita, e estão
+sendo priorizados os profissionais que estão na linha de frente do combate à pandemia,
+como profissionais de saúde, policiais, militares e funcionários públicos. Já o Ministério
+da Saúde da Turquia fechou um acordo com a Sinovac para o fornecimento de 50
+milhões de doses. A vacina ainda não foi oficialmente aprovada no país, mas segundo o
+governo turco, foi concedida uma autorização de uso antecipada, após os laboratórios
+do país confirmarem que a CoronaVac é segura. Também serão revisados os resultados
+preliminares dos testes da CoronaVac que estão sendo feitos no país. A imunização deve
+ocorrer em quatro etapas. A primeira prevê a imunização de profissionais de saúde e
+idosos.
+
+          O Chile fechou um acordo com a Sinovac para o fornecimento de 20 milhões de
+doses da vacina chinesa. Os profissionais de saúde, os trabalhadores do setor de
+transportes e os integrantes das Forças Armadas e forças de segurança serão priorizados
+em uma primeira etapa, informou o Ministério da Saúde. Embora tenha sido autorizada
+a importação da vacina, o processo de avaliação do uso emergencial da vacina está em
+análise, ainda sem decisão.
+
+          Até dezembro de 2020, 700.000 doses da vacina foram aplicadas.
+
+
+14
+4.1.2 Fiocruz
+        A vacina AZD1222 (ChAdOx1 nCoV-19; AstraZeneca, University of Oxford), é uma
+vacina de vetor baseada em um adenovírus de chimpanzé chamado ChAdOx1 ao qual é
+acoplada a porção imunogênica do novo coronavírus (sua espícula). Após a exposição a
+essa vacina o sistema imunológico das pessoas imunizadas está preparado para atacar
+o vírus SARS-CoV-2, se houver infecção posterior. O desenvolvimento dessa vacina foi
+acelerado devido ao fato de parte dos testes iniciais terem sido feitos por ocasião do
+desenvolvimento de uma vacina contra outro tipo coronavírus, no ano passado. É objeto
+de parceria dos fabricantes com a Fiocruz e o governo brasileiro.
+
+        Vale esclarecer que a vacina objeto de submissão de autorização temporária
+para uso emergencial apresentada pela Fiocruz, neste momento, difere em alguns
+aspectos de fabricação e controles da vacina da Astrazeneca/Oxford, objeto de avaliação
+ou autorização emergencial concedida por outras autoridades, como é o caso da vacina
+autorizada no Reino Unido. Desta forma, foram feitos estudos ponte de
+comparabilidade que comprovam a equivalência entre elas.
+
+        Destaca-se que a vacina produzida pelo Serum Institute of India/Astrazeneca,
+objeto da solicitação de autorização para uso emergencial feita pela da Fiocruz, se
+encontra autorizada para uso emergencial somente na Índia (em 03 de janeiro de 2021)
+e em Bangladesh (em 12 de janeiro de 2021).
+
+        A fabricação do granel concentrado ChAdOx1 nCoV-19 (insumo farmacêutico
+ativo - IFA ou drug substance - DS) da vacina Covid-19 Covishield® é realizada no Serum
+Institute of India Pvt. Ltd. (SIIPL).
+
+        A Índia autorizou o uso emergencial, em 03/01/2021, da vacina Covishield –
+desenvolvida pela AstraZeneca e pela Universidade de Oxford, com eficácia de 70,4%.
+
+
+
+
+15
+4.2 CARACTERÍSTICAS DA VACINA
+
+4.2.1 Instituto Butantan
+Nome da vacina: Vacina Coronavac
+Composição Qualitativa:
+1 dose (0,5 ml) contém:
+Antígeno do vírus inativado SARSCoV- 2 600 SU
+Lista de excipientes: hidróxido de alumínio; cloreto de sódio; hidróxido de sódio;
+solução tampão de Fosfato; água para injetáveis
+Forma Farmacêutica: suspensão injetável
+Indicação terapêutica: Este produto é indicado para imunização ativa contra doença
+causada pela infecção pelo SARS-CoV-2 em indivíduos com 18 anos ou mais que sejam
+suscetíveis ao vírus.
+Para este pedido o Instituto Butantan importou o produto terminado, produzido
+totalmente pela empresa Sinovac, na apresentação frasco-ampola (1200 SU/ML SUS INJ
+IM CT 40 FA INC X 0,5 ML).
+
+4.2.2 Fiocruz
+Nome da vacina: VACINA COVID-19 (RECOMBINANTE)
+Composição Qualitativa:
+1 dose (ml) contém:
+Vetor adenovírus recombinante de chimpanzé, deficiente para replicação, para
+expressão da glicoproteína Spike (S) do vírus SARS-CoV-2.
+Lista de excipientes:     L-Histidine; L-Histidine hydrochloride monohydrate; Sodium
+chloride; Magnesium chloride hexahydrate; Disodium edetate (dihydrate); Sucrose;
+Ethanol (anhydrous); Polysorbate 80; água para injetáveis.
+Forma Farmacêutica: Suspensão Injetável
+Indicação terapêutica: A vacina covid-19 (recombinante) é indicada para a imunização
+ativa de indivíduos ≥ 18 anos de idade para a prevenção da doença do coronavírus 2019
+(COVID-19).
+
+
+
+
+16
+       Para este pedido, foi aprovada a importação excepcional de vacinas pela Fiocruz.
+A importação engloba dois milhões de doses da vacina de Astrazeneca/Oxford. A Fiocruz
+é a responsável por produzir a vacina desenvolvida pela AstraZeneca em parceria com a
+Universidade de Oxford. O produto terminado foi produzido totalmente pela empresa
+Serum Institute of India Pvt Ltd, que é uma das empresas participantes do Covaxx
+Facility, o programa de aceleração e alocação global de recursos contra o novo
+coronavírus co-liderada pela OMS.
+
+4.3 DADOS DE BOAS PRÁTICAS DE FABRICAÇÃO
+       Quando a empresa interessada solicita a Certificação de Boas Práticas de
+Fabricação-BPF, a petição é avaliada por servidores da Gerência-Geral de Inspeção e
+Fiscalização Sanitária-GGFIS, seguindo procedimento operacional interno, que definirá
+
+a necessidade da realização de inspeção in loco, virtual ou reconhecimento de relatório
+de inspeção emitido por autoridade sanitária de outro país.
+
+       A inspeção é feita por servidores qualificados para garantir que uma fábrica, em
+qualquer lugar do mundo, cumpra com os requisitos determinados pela legislação
+brasileira. São avaliadas as estruturas físicas das áreas de produção, armazenamento e
+laboratórios de Controle de Qualidade, além de toda a documentação da Sistema de
+Garantia de Qualidade da empresa, conforme estabelecido na legislação vigente que
+dispõe sobre as diretrizes gerais de boas práticas de fabricação de medicamentos.
+
+       O cumprimento dos requisitos de boas práticas de fabricação representa que a
+empresa possui capacidade para produzir as vacinas com a qualidade esperada, com o
+mesmo padrão definido no registro em todos os lotes fabricados e que cumpre parte
+das exigências estabelecidas para o registro da vacina, sendo ainda necessário a
+comprovação da eficácia e segurança.
+
+
+
+
+17
+4.3.1 Instituto Butantan
+       A Inspeção de Boas Práticas de Fabricação (BPF) nas instalações da empresa
+Sinovac Life Sciences Co., Ltd. (No. 21, Tianfu Street, Daxing Biomedicine Industrial Base
+of Zhongguancun Science Park, Daxing District, Beijing, P.R.China) foi realizada entre os
+dias 30/11/2020 e 04/12/2020 por equipe de especialistas/inspetores qualificados para
+a atividade. A concessão da Certificação da empresa fabricante SINOVAC LIFE SCIENCES
+CO., LTD foi realizada por meio da publicação da RESOLUÇÃO-RE Nº 5.299, DE 21 DE
+DEZEMBRO DE 2020 (CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE
+MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com
+Preparação Asséptica) e RESOLUÇÃO-RE Nº 5.300, DE 21 DE DEZEMBRO DE 2020
+(Certificado de Boas Práticas de Fabricação de Medicamentos: Insumos farmacêuticos
+ativos biológicos: antígeno do vírus inativado SARS-CoV-2).
+
+       Após a avaliação da documentação, especialistas da GGFIS emitiram o PARECER
+Nº 2/2021/SEI/GGFIS/DIRE4/ANVISA. Como conclusão de toda a análise, a GGFIS
+relatou que as informações prestadas sugerem um cumprimento aceitável de Boas
+Práticas de Fabricação para justificar o uso emergencial da vacina, no atual cenário
+pandêmico e de calamidade em saúde pública.
+
+4.3.2 Fiocruz
+       A Inspeção de Boas Práticas de Fabricação (BPF) nas instalações da empresa
+Serum Institute of India Pvt Ltd - A1380, na Cidade de Pune - Índia, foi realizada no
+período de 20 a 29/01/2020, tendo como escopo as vacinas BCG, MMR, rotavírus, raiva,
+DT, DTP e vacina pentavalente (DTP, Hib e Hepatite B). Apesar da Anvisa ainda não ser
+autoridade PIC/S naquele momento, a inspeção já foi realizada com base na RDC
+301/2019 e respectivas Instruções Normativas, que internalizaram as diretrizes de BPF
+do PIC/S no Brasil.
+
+       Segundo informado no Relatório de inspeção da Autoridade Indiana, a área do
+prédio que foi dedicada à fabricação do insumo farmacêutico ativo - IFA da vacina
+ChAdOx1 nCoV-19, era anteriormente utilizada para fabricação de lotes de
+desenvolvimento do componente Pertussis Acelular, entretanto esta área ainda estava
+
+
+
+18
+em comissionamento durante a inspeção da autoridade (13-14/08/2020). A área de
+Pertussis (célula inteira), localizada no mesmo prédio e andar, foi inspecionada pela
+Anvisa em janeiro de 2020. O Certificado de BPF foi emitido em 04/05/2020 (Resoluções
+RE Nº 1.324, de 29 de abril de 2020 e RE nº 1.330, de 29 de abril de 2020).
+
+        Com base nas informações apresentadas pela Fiocruz, disponibilizadas pelo
+Serum     Institute,   inspetores    da     GGFIS    emitiram     o     PARECER     Nº
+3/2021/SEI/GIMED/GGFIS/DIRE4/ANVISA, emitido pela equipe da GGFIS descreve as
+conclusões da GGFIS quanto às condições de BPF, assim informa: que o sistema da
+qualidade, as abordagens utilizadas pela Serum Institute of India Pvt. Ltd. para
+qualificação de utilidades, equipamentos, validação de processo, validação de processos
+assépticos e monitoramento ambiental foram consideradas adequadas com relação às
+BPF durante inspeção realizada pela Anvisa em janeiro de 2020, bem como a
+documentação adicional apresentada pelo Serum Institute para fabricação da vacina
+Covid-19 Covishield® (ChAdOx1 nCoV-19) em suas instalações, é parecer da GGFIS que
+as informações sugerem um cumprimento aceitável das Boas Práticas de Fabricação
+para justificar o uso emergencial da vacina, no atual cenário pandêmico e de calamidade
+
+em saúde pública.
+
+4.4 DADOS SOBRE A SEGURANÇA E EFICÁCIA
+
+4.4.1 Instituto Butantan
+        Quanto à eficácia e segurança da vacina Coronavac foram apresentados dados
+clínicos pivotais obtidos de um ensaio clínico fase 3 que demonstram que até data de
+corte de dados de 16 de dezembro de 2020 para a análise interina de eficácia, houve
+proteção conferida pela vacina Coronavac contra COVID-19, com eficácia de 50,39% a
+partir de 15 dias após a segunda dose em participantes que receberam duas doses de
+vacina. Dessa forma os resultados de eficácia atendem aos critérios de eficácia
+estabelecidos no Guia 42/2020 e às diretrizes da OMS sobre o perfil alvo para vacinas
+Covid-19. Um perfil de segurança aceitável para uma vacina pode ser estabelecido para
+a população geral, mas há dados escassos em idosos e em pacientes com comorbidades.
+
+
+
+19
+          Apesar de algumas incertezas clínicas existirem, como a duração da proteção,
+perfil de segurança em longo prazo, possibilidade de indução de doença respiratória
+agravada pela vacina, eficácia em idosos e contra formas moderadas e graves da Covid-
+19, eficácia relacionada aos intervalos de doses, não demonstração do perfil de
+imunogenicidade com dados robustos obtidos do estudo clínico fase 3, não
+conhecimento sobre o possível decaimento de anticorpos, considerando a situação de
+Pandemia Covid-19, o perfil de eficácia e segurança da vacina Coronavac demonstrados
+são considerados aceitáveis para a indicação proposta.
+
+          Com base nas informações apresentadas pela Instituto Butantan, a Gerência-
+Geral     de   Medicamentos     e   Produtos    Biológicos   emitiu   o   PARECER    Nº
+2/2021/SEI/GPBIO/GGMED/DIRE2/ANVISA descrevendo as conclusões da equipe
+técnica quanto à segurança e eficácia, e, a Gerência Geral de Medicamentos assim
+informa: tendo em vista o contexto da pandemia no Brasil, o aumento do número de
+casos graves e óbitos e a ausência de alternativas terapêuticas, a Gerência-Geral de
+Medicamentos e Produtos Biológicos recomenda a aprovação do uso emergencial da
+referida vacina, condicionada ao acompanhamento e monitoramento das incertezas
+descritas nos documentos supracitados e à reavaliação periódica da autorização, à
+medida em que novos dados surjam sobre a eficácia, a segurança ou a qualidade da
+vacina.
+
+
+
+
+4.4.2 Fiocruz
+          Com relação à qualidade da vacina COVISHIELD (SII-ChAdOx1 nCoV-19)
+produzida pelo Serum Institute of India Pvt. Ltd, foram apresentados de forma
+satisfatória atendendo a maioria dos itens do Guia nº 42/2020 - Guia sobre os requisitos
+mínimos para submissão de solicitação de autorização temporária de uso emergencial,
+em caráter experimental, de vacinas Covid-19.
+
+          Com relação à eficácia e segurança da vacina COVISHIELD (SII-ChAdOx1 nCoV-
+19), foram apresentados dados clínicos obtidos de uma análise interina integrada de 4
+estudos clínicos conduzidos no Brasil, Reino Unido, e África do Sul, para dar suporte à
+
+
+20
+utilização da vacina ChAdOx1 nCoV19 (AZD1222) para imunização ativa de adultos com
+idade a partir dos 18 anos para a prevenção de COVID-19. Os dados apresentados
+demonstram que a eficácia global da vacina é de 70,42% para a prevenção da COVID-19,
+com Intervalo de Confiança (IC) de 95,84% de 54,84% a 80,63%. Dessa forma, os
+resultados de eficácia atendem aos critérios de eficácia estabelecidos no Guia n°
+42/2020 da Anvisa sobre os requisitos mínimos para submissão de solicitação de
+autorização temporária de uso emergencial, em caráter experimental, de vacinas para a
+prevenção da Covid-19 e às diretrizes da OMS sobre o perfil alvo para vacinas Covid-19.
+A duração mínima média do seguimento estabelecida pelo guia da Anvisa, de pelo
+menos dois meses após a última imunização também foi atendida. Um perfil de
+segurança aceitável para uma vacina pôde ser estabelecido. Algumas incertezas clínicas
+existem, como a duração da proteção, perfil de segurança e possibilidade de indução de
+doença respiratória agravada pela vacina, eficácia em idosos e contra formas graves da
+Covid-19 e eficácia relacionada aos intervalos de doses. Dados adicionais deverão ser
+gerados para sanar as incertezas existentes.
+
+       Adicionalmente é importante destacar que a Vacina COVID-19 (recombinante),
+produzida por WuXi e Fiocruz, está em processo de análise (submissão contínua), no
+entanto trata-se em sua maioria de uma documentação distinta (em termos de
+qualidade) da apresentada pelo SIIPL (em 08-01-2021).
+
+       De forma geral, os testes, especificações e métodos do controle de qualidade
+foram considerados adequados para avaliar a qualidade do produto terminado, no
+contexto do uso emergencial.
+
+       Considerando a situação de Pandemia Covid-19, o perfil de eficácia e segurança
+da vacina ChAdOx1 nCoV19 (AZD1222) demonstrados são considerados aceitáveis para
+a indicação proposta.
+
+       Com base nas informações apresentadas pela Fiocruz, a Gerência-Geral de
+Medicamentos       e     Produtos      Biológicos    emitiu     o     PARECER       Nº
+3/2021/SEI/GPBIO/GGMED/DIRE2/ANVISA descrevendo as conclusões da equipe técnica
+quanto à segurança e eficácia, e, a Gerência Geral de Medicamentos assim informa:
+
+
+21
+tendo em vista o contexto da pandemia no Brasil, o aumento do número de casos graves
+e óbitos e a ausência de alternativas terapêuticas, a Gerência-Geral de Medicamentos e
+Produtos Biológicos recomenda a aprovação do uso emergencial da referida vacina,
+condicionada ao acompanhamento e monitoramento das incertezas descritas nos
+documentos supracitados e à reavaliação periódica da autorização, à medida em que
+novos dados surjam sobre a eficácia, a segurança ou a qualidade da vacina.
+
+
+
+4.5 DADOS DE FARMACOVIGILÂNCIA
+4.5.1 Plano de Gerenciamento de Risco
+       O processo de desenvolvimento de uma vacina, que costumava levar anos, foi
+desafiado pela pressão da pandemia da CODI-19, fazendo com que cientistas se
+desdobrassem para apressar a descoberta de imunizante contra o coronavírus. Neste
+contexto, de emergência de saúde pública, as vacinas avançaram os estudos clínicos
+Fase I e II, com número limitado de participantes e acompanhados por um período
+relativamente curto em condições controladas. Os estudos Fase III estão sendo
+concluídos, reforçando a importância de ações de acompanhamento intensivo, a fim de
+se monitorar a segurança e eficácia desses produtos após sua autorização.
+
+       A segurança e a eficácia das vacinas podem mudar conforme a população é
+exposta a elas, seja antes ou após a sua comercialização. Assim, os países devem possuir
+a capacidade de monitorar a segurança dos produtos registrados, pois o
+acompanhamento permanente proporciona o conhecimento necessário para tomar
+medidas para proteger a população, contribuindo com a saúde pública.
+
+       Para que este processo seja eficaz, é necessária a participação de todos os
+profissionais da saúde envolvidos. O estímulo à comunicação dos eventos adversos ao
+sistema de saúde o mais rápido possível, tanto pelos profissionais de saúde, quanto pelo
+cidadão deve ser reforçado.
+
+No Brasil, a Gerência de Farmacovigilância - GFARM da Gerência-Geral de
+Monitoramento de Produtos Sujeitos à Vigilância Sanitária - GGMON é sede do Centro
+Nacional de Monitorização de Medicamentos- CNMM, que representa o Brasil no
+
+
+22
+Programa Internacional de Monitorização de Medicamentos da Organização Mundial da
+Saúde. Entre as suas atribuições está a identificação precoce de reações adversas novas
+e aumento do conhecimento sobre reação adversa pouco descrita e que tenha uma
+possível relação de causalidade com a vacina.
+
+       A Anvisa divulgou no dia 15/1 o Plano de Monitoramento de Eventos Adversos
+de Medicamentos e Vacinas Pós-Autorização de Uso Emergencial: Diretrizes e
+Estratégias de Farmacovigilância para o Enfrentamento da Covid-19, que reúne
+atividades já desenvolvidas pela área de Farmacovigilância da Agência em sua rotina,
+lições aprendidas com epidemias anteriores, na cooperação entre autoridades
+reguladoras de vários países do mundo, e estratégias específicas para monitorar os
+produtos destinados à pandemia de Covid-19.
+
+       O Plano de Monitoramento estabelece diretrizes e estratégias para apoiar a
+tomada de decisão regulatória em farmacovigilância durante a pandemia e se baseia no
+Sistema de Notificação e Investigação de Produtos em Vigilância Sanitária, no Programa
+Nacional de Imunização, nas Boas Práticas de Farmacovigilância e nas recomendações
+de organismos internacionais.
+
+       Foi criada uma sala de situação para a vigilância dos eventos adversos das vacinas
+contra Covid-19. É o chamado “MonitoraCovid-19”, que disponibilizará informações
+para subsidiar a tomada de decisão no âmbito regulatório, contribuindo para a
+transparência das ações de minimização ou interrupção dos possíveis riscos sanitários.
+Adicionalmente, haverá a reativação da Câmara Técnica de Farmacovigilância, instituída
+pela primeira vez em 2017, composto por especialistas com perfil técnico-científico de
+alto nível e que não fazem parte do corpo funcional da Anvisa.
+
+       Outro ponto a ser destacado é a integração dos sistemas VigiMed e e-SUS
+Notifica, que irá conferir maior robustez às análises de segurança e eficácia, bem como
+agilidade no envio das informações do monitoramento brasileiro à Organização Mundial
+da Saúde (OMS). A Anvisa estabeleceu uma articulação estratégica com o Programa
+Nacional de Imunizações (PNI) para a vigilância epidemiológica e sanitária dos eventos
+adversos pós-vacinação. Isso inclui ações para o monitoramento dos vacinados,
+
+
+23
+processos de investigação epidemiológica, avaliação dos casos e classificação de
+causalidade, por exemplo. As ações do PNI representam um braço importante para as
+ações de farmacovigilância das vacinas no setor público.
+
+
+
+4.5.1.1 Instituto Butantan
+       O Plano de Gerenciamento de Risco [USO EMERGENCIAL], da vacina adsorvida
+Covid-19 (inativada) elaborado pela área de Farmacovigilância do Instituto Butantan se
+refere a primeira atualização da terceira versão (3.1) e tem como objetivo
+complementar as informações apresentadas no Plano de Gerenciamento de Risco
+elaborado pela empresa chinesa Sinovac Life Sciences Co., Ltd, que é o fabricante da
+vacina adsorvida Covid-19 (inativada).
+
+       A Gerência de Farmacovigilância-GFARM/GGMON/ANVISA, em 14/01/2021,
+emitiu PARECER TÉCNICO – Plano de Gerenciamento de Risco Vacina adsorvida COVID-
+19 (inativada) que decorre da avaliação dessa documentação considerando a Resolução
+de Diretoria Colegiada - RDC nº 444, de 10 de dezembro de 2020, bem como o as
+diretrizes do Guia nº 42/2020, de 02 de dezembro de 2020.
+
+       A GFARM concluiu que este Plano de Gerenciamento de Risco, no âmbito dos
+requisitos de Farmacovigilância, se apresenta em conformidade com o Guia nº 42/2020,
+a RDC nº 444/2020, a RDC nº 406/2020 e a IN nº 63/2020. Desta forma, as medidas
+adotadas para o gerenciamento de risco da vacina parecem ser compatíveis para o perfil
+de segurança conhecido até o momento. De todo modo, medidas de minimização de
+risco adicionais poderão ser implementadas após a concessão de autorização de uso
+emergencial, caso as atividades já propostas se mostrem insuficientes para gerenciar as
+preocupações de segurança.
+
+4.5.1.2 Fiocruz
+       O Plano de Gerenciamento de Risco [USO EMERGENCIAL], da Vacina COVID-19
+(recombinante) da empresa Fundação Oswaldo Cruz - Instituto de Tecnologia em
+Imunobiológicos Bio-Manguinhos, se refere à versão 1 e após avaliação dessa
+documentação a Gerência de Farmacovigilância-GFARM/GGMON/ANVISA, em
+
+
+24
+14/01/2021, emitiu PARECER TÉCNICO – Plano de Gerenciamento de Risco Vacina
+COVID-19 (recombinante) que decorre da avaliação dessa documentação considerando
+a Resolução de Diretoria Colegiada - RDC nº 444, de 10 de dezembro de 2020, bem como
+o as diretrizes do Guia nº 42/2020, de 02 de dezembro de 2020.
+
+       A GFARM concluiu que o Plano de Gerenciamento de Risco [USO EMERGENCIAL],
+Versão 1, da Vacina COVID-19 (recombinante) da empresa Fundação Oswaldo Cruz -
+Instituto de Tecnologia em Imunobiológicos Bio-Manguinhos, no âmbito dos requisitos
+de Farmacovigilância, se apresenta em conformidade com o Guia nº 42/2020, a RDC nº
+444/2020, a RDC nº 406/2020 e a IN nº 63/2020. Desta forma, as medidas adotadas para
+o gerenciamento de risco da vacina parecem ser compatíveis para o perfil de segurança
+conhecido até o momento.
+
+
+
+
+5 DA DELIBERAÇÃO
+
+     A Diretoria Colegiada da Anvisa (DICOL) se reuniu no dia 17 de janeiro de 2021, em
+Reunião Pública Extraordinária, para deliberar sobre os pedidos de autorização de uso
+temporário e emergencial das duas candidatas a vacina Coronavac e Covishield. A
+reunião foi transmitida e gravada, e pode ser acessada por meio do link
+https://youtu.be/sqzWHBN8Imo.
+
+     A reunião foi aberta pelo Diretor-Presidente, Antônio Barra Torres e os temas em
+discussão foram relatados pela Diretora Meiruze Freitas, Diretora da Segunda Diretoria
+– DIRE2, da Anvisa. Compuseram a mesa da Diretoria Colegiada: Cristiane Rose Jourdan
+Gomes, Diretora da Terceira Diretoria – DIRE3, Romison Rodrigues Mota, Diretor
+Substituto da Quarta Diretoria – DIRE4 e Alex Machado Campos, Diretor da Quinta
+Diretoria – DIRE5.
+
+     A deliberação quanto às autorizações temporárias de uso emergencial foi precedida
+por apresentações das áreas técnicas responsáveis, que relataram as avaliações
+realizadas, os achados, considerações regulatórias relevantes sobre os dados disponíveis
+
+
+25
+até o momento e recomendações para apoiar a deliberação e decisão da Diretora
+Colegiada.
+
+     As apresentações sobre as duas vacinas, de cada uma das áreas podem ser
+consultadas aqui:
+
+5.1.1.1 Coronavac - Instituto Butantan
+
+        Qualidade, Segurança e Eficácia – Gerência-Geral de Medicamentos e Produtos
+Biológicos (GGMED)
+       Boas Práticas de Fabricação – Gerência-Geral de Inspeção e Fiscalização
+Sanitária (GGFIS)
+      Plano de Gerenciamento de Risco – Gerência-Geral de Monitoramento de
+Produtos Sujeitos à Vigilância Sanitária (GGMON)
+
+
+
+5.1.1.2 Covishield - Fiocruz
+
+        Qualidade, Segurança e Eficácia – Gerência-Geral de Medicamentos e Produtos
+Biológicos (GGMED)
+       Boas Práticas de Fabricação – Gerência-Geral de Inspeção e Fiscalização
+Sanitária (GGFIS)
+      Plano de Gerenciamento de Risco – Gerência-Geral de Monitoramento de
+Produtos Sujeitos à Vigilância Sanitária (GGMON)
+        Após as apresentações técnicas de cada uma das áreas, passou-se à deliberação por
+parte dos Diretores da Anvisa.
+
+
+
+
+6 DA DECISÃO
+
+        Após as apresentações técnicas de cada uma das áreas, passou-se à deliberação por
+parte dos Diretores da Anvisa, com as considerações, seguida por voto por cada Diretoria.
+
+       Os votos, na íntegra, podem ser consultados aqui:
+
+
+
+
+26
+       Voto Diretora Relatora, Segunda Diretoria
+
+       Voto Terceira Diretoria
+
+       Voto Quarta Diretora
+
+       Voto Quinta Diretoria
+
+       Voto Primeira Diretoria
+
+
+
+
+       As autorizações temporárias de uso emergencial das vacinas foram aprovadas
+por unanimidade pelos Diretores da Anvisa. Os efeitos da decisão passam a vigorar a
+partir da publicação do extrato de deliberação da reunião realizada hoje para a vacina
+protocolada pela Fiocruz. Com relação à Coronavac, a autorização foi condicionada à
+assinatura de um Termo de Compromisso e sua respectiva publicação no Diário Oficial
+da União (D. O. U.).
+
+       Esse Temo de Compromisso determina que, até 28 de fevereiro do presente ano,
+o Instituto Butantan deve apresentar à Anvisa estudo que contenha a Avaliação da
+resposta imunogênica de participantes do estudo clínico de fase 3 da vacina Coronavac
+que desenvolveram a doença e um subgrupo de 10% dos participantes que não
+desenvolveram a doença nos períodos pré-vacinação, duas semanas e quatro semanas
+após a vacinação, conforme estabelecido no Desenho do Estudo Clínico fase III
+submetido e aprovado pela Anvisa.
+
+
+
+
+27
+
